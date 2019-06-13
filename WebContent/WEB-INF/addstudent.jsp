@@ -121,6 +121,8 @@
 	<br>
 	<hr>
 	<br>
+	<a href="goToDownLoadFile">＜ダウンロード</a>
+	<br>
 	<a href="welcome.jsp"><button type="button">ホームページへ戻す</button></a>
 
 </body>
